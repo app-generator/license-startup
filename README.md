@@ -11,7 +11,7 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | Item | - |
 | ---------------------------------- | --- |
 | Domains | 1 |
-| Team Size | 1 - 5 people |
+| Team Size | 9 developers |
 | Tech Support | 12 months |
 | Free Updates | 12 months |
 | --- | --- |
