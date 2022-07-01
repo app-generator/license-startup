@@ -43,11 +43,5 @@ SaaS samples:
 
 <br />
 
-> For solo-developers we provide a **[Personal License](https://github.com/app-generator/license-personal)**.
-
-> For unlimited projects or SaaS platforms we provide a **[Company License](https://github.com/app-generator/license-company)**.
-
-<br />
-
 ---
 For more information regarding licensing, please contact the AppSeed Service < *support@appseed.us* >
